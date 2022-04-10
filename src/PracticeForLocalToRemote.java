@@ -5,6 +5,9 @@ public class PracticeForLocalToRemote {
         String name = "Ahmet";
         int age = 23;
 
+        //add more options
+        // commit
+
 
 
     }
